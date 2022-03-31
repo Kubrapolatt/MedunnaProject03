@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="21.704">
+    <testcase classname="registration data test" name="registrants icin coklu test data" time="21.506">
+        <system-out>
+            <![CDATA[Given kullanici SNN girer "111-95-9595".....................................passed
+And kulanici firstname ve lastname girer "team95" ve "Admin"................passed
+And kullanici username girer "team95admin"..................................passed
+Then kullanici email girer "team95@medunna.com".............................passed
+And kullanici password girer "Batch44+".....................................passed
+And kullanicinin kayit yaptigini dogrula....................................passed
+Then kayit olan kullanicinin datalarini kaydet..............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

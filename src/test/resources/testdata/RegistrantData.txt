@@ -1,0 +1,2 @@
+Registrant{SSN='290-37-1618', firstName='Karima', lastName='Feeney', username='KarimaFeeney', email='vicenta.gulgowski@yahoo.com', password='4Ygg42^B1N'}, 
+Registrant{SSN='282-23-5823', firstName='Kallie', lastName='Labadie', username='KallieLabadie', email='elvin.dach@yahoo.com', password='e^sj!77BRc'}, 
